@@ -63,7 +63,7 @@ include(ROOT_PATH . "/app/controllers/topics.php");
       <img src="assets/images/b.jpg" alt="Busi" style="width:18px">
       <div class="container">
         <h2>Busi</h2>
-        <p class="title">Art Director</p>
+        <p class="title">CEO & Founder</p>
         <p>"Your fragile mind can't have forggotten the terrifyinh technothriller seriesknown 'Scorpion',
           because it features the worst hacking scenes ever broadcast in any medium"~Annalee Newitz.
         </p>
@@ -78,7 +78,7 @@ include(ROOT_PATH . "/app/controllers/topics.php");
       <img src="assets/images/c.jpg" alt="Ciddy" style="width:23px">
       <div class="container">
         <h2>Ciddy</h2>
-        <p class="title">Designer</p>
+        <p class="title">CEO &Founder</p>
         <p>"One of my favourite books about hackers is 'Masters of Deception'about this hacking group in the 1990s"~Harper Reed
           <br>oh well
         </p>
