@@ -64,7 +64,7 @@ include(ROOT_PATH . "/app/controllers/topics.php");
       <div class="container">
         <h2>Busi</h2>
         <p class="title">CEO & Founder</p>
-        <p>"Your fragile mind can't have forggotten the terrifyinh technothriller seriesknown 'Scorpion',
+        <p>"Your fragile mind can't have forggotten the terrifyinh technothriller series known 'Scorpion',
           because it features the worst hacking scenes ever broadcast in any medium"~Annalee Newitz.
         </p>
         <p>busi@standardbank.co.za</p>
