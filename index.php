@@ -41,11 +41,12 @@ if (isset($_GET['t_id'])) {
 
   <?php include(ROOT_PATH . "/app/includes/header.php"); ?>
   <?php include(ROOT_PATH . "/app/includes/messages.php"); ?>
-
+  
 
 
   <!-- Page Wrapper -->
   <div class="page-wrapper">
+    
 
     <!-- Post Slider -->
     <div class="post-slider">
